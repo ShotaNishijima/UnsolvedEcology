@@ -2,7 +2,7 @@
 "Unsolved Problems in Ecology" (A. Dobson, D.Tilman, R.D. Holt編, Princeton University Press, 2020年) の輪読会用レポジトリ
 
 |Chapter|Title|Presenter|Date|
-|:---:|:---:|:---:|:---:|
+|:---:|:---|:---:|:---:|
 |*Part I*|*POPULATIONS, VARIABILITY, AND SCALING*|||
 |1|Ecological Scaling in Space and Time: A New Tool in Plain Sight?|松葉|-|
 |2|How Will Organisms Respond to Complex, Novel Environments?|大澤|-|
@@ -26,7 +26,7 @@
 |17|The Ecosystem: Superorganism, or Collection of Individuals?|篠原|-|
 |18|Untangling Food Webs|長田|-|
 |19|What Determines the Abundance of Lianas and Vines?|奥田|-|
-|20|The World Beneath Us: Making Soil Biodiversity and Ecosystem Functioning Central to Environmental Policy|奥田|-|
+|20|The World Beneath Us: Making Soil Biodiversity and Ecosystem Functioning Central to Environmental Policy|濵邉|-|
 |*Part V*|*ECOLOGY AND HEALTH*|||
 |21|Ecology and Medicines|柴田|-|
 |22|Six Wedges to Curing Disease|古市|-|
