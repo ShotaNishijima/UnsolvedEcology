@@ -23,7 +23,7 @@
 |15|Two Sides of the Same Coin: High Non-Neutral Diversity and High-Dimensional Trait Space in Pathogen Populations and Ecological Communities|金森|-|
 |*Part IV*|*ECOLOGICAL COMMUNITIES AND ECOSYSTEMS*|||
 |16|What Regulates Growth across Levels of Organization?|真鍋|-|
-|17|The Ecosystem: Superorganism, or Collection of Individuals?|篠原|-|
+|17|The Ecosystem: Superorganism, or Collection of Individuals?|長谷川|-|
 |18|Untangling Food Webs|長田|-|
 |19|What Determines the Abundance of Lianas and Vines?|奥田|-|
 |20|The World Beneath Us: Making Soil Biodiversity and Ecosystem Functioning Central to Environmental Policy|濵邉|-|
