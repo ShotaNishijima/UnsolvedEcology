@@ -4,15 +4,15 @@
 |Chapter|Title|Presenter|Date|
 |:---:|:---|:---:|:---:|
 |*Part I*|*POPULATIONS, VARIABILITY, AND SCALING*|||
-|1|Ecological Scaling in Space and Time: A New Tool in Plain Sight?|松葉|-|
+|1|Ecological Scaling in Space and Time: A New Tool in Plain Sight?|松葉|2021/05/21|
 |2|How Will Organisms Respond to Complex, Novel Environments?|大澤|2021/04/22|
-|3|Variance-Explicit Ecology: A Call for Holistic Study of the Consequences of Variability at Multiple Scales|金森|-|
+|3|Variance-Explicit Ecology: A Call for Holistic Study of the Consequences of Variability at Multiple Scales|金森|2021/05/21|
 |4|Why Does Intra-Genotypic Variance Persist?|井元|2021/04/13|
 |5|Population Dynamics of Species with Complex Life Cycles|小池|2021/04/13|
 |6|What Determines Population Density?|岡村|2021/04/22|
 |*Part II*|*POPULATION BIOLOGY AND THE ECOLOGY OF INDIVIDUALS*|||
-|7|Neglected Problems in Ecology: Interdependence and Mutualism|西嶋|-|
-|8|Ecology "through the Looking Class": What Might Be the Ecological Consequences of Stopping Mutation?|古市|-|
+|7|Neglected Problems in Ecology: Interdependence and Mutualism|西嶋|2021/05/31|
+|8|Ecology "through the Looking Class": What Might Be the Ecological Consequences of Stopping Mutation?|古市|2021/05/31|
 |9|Ecology and Evolution Is Hindered by the Lack of Individual-Based Data|井元|-|
 |10|Do Temperate and Tropical Birds Have Different Mating Systems?|澤田|-|
 |11|Leaf Structure and Function|濵邉|-|
