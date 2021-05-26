@@ -15,7 +15,7 @@
 |8|Ecology "through the Looking Class": What Might Be the Ecological Consequences of Stopping Mutation?|古市|2021/05/31|
 |9|Ecology and Evolution Is Hindered by the Lack of Individual-Based Data|井元|-|
 |10|Do Temperate and Tropical Birds Have Different Mating Systems?|澤田|-|
-|11|Leaf Structure and Function|濵邉|-|
+|11|Leaf Structure and Function|渡邊|-|
 |*Part III*|*COEXISTENCE*|||
 |12|The Dimensions of Species Coexistence|西嶋|-|
 |13|Evolution, Speciation, and the Persistence Paradox|篠原|-|
