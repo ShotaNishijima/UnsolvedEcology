@@ -13,9 +13,9 @@
 |*Part II*|*POPULATION BIOLOGY AND THE ECOLOGY OF INDIVIDUALS*|||
 |7|Neglected Problems in Ecology: Interdependence and Mutualism|西嶋|2021/05/31|
 |8|Ecology "through the Looking Class": What Might Be the Ecological Consequences of Stopping Mutation?|古市|2021/05/31|
-|9|Ecology and Evolution Is Hindered by the Lack of Individual-Based Data|井元|-|
-|10|Do Temperate and Tropical Birds Have Different Mating Systems?|澤田|-|
-|11|Leaf Structure and Function|渡邊|-|
+|9|Ecology and Evolution Is Hindered by the Lack of Individual-Based Data|井元|2021/06/30|
+|10|Do Temperate and Tropical Birds Have Different Mating Systems?|澤田|2021/06/04|
+|11|Leaf Structure and Function|渡邊|2021/06/30|
 |*Part III*|*COEXISTENCE*|||
 |12|The Dimensions of Species Coexistence|西嶋|-|
 |13|Evolution, Speciation, and the Persistence Paradox|篠原|-|
@@ -24,7 +24,7 @@
 |*Part IV*|*ECOLOGICAL COMMUNITIES AND ECOSYSTEMS*|||
 |16|What Regulates Growth across Levels of Organization?|真鍋|-|
 |17|The Ecosystem: Superorganism, or Collection of Individuals?|長谷川|-|
-|18|Untangling Food Webs|長田|-|
+|18|Untangling Food Webs|長田|2021/06/04|
 |19|What Determines the Abundance of Lianas and Vines?|奥田|-|
 |20|The World Beneath Us: Making Soil Biodiversity and Ecosystem Functioning Central to Environmental Policy|濵邉|-|
 |*Part V*|*ECOLOGY AND HEALTH*|||
@@ -36,4 +36,4 @@
 |25|How Does Biodiversity Relate to Ecosystem Functioning in Natural Ecosystems?|松葉|-|
 |*Part VII*|*FINAL THOUGHTS*|||
 |26|A Science Business Model for Answering Important Questions|市野川|-|
-|27|Going Big|長田|-|
+|27|Going Big|長田|2021/06/04|
