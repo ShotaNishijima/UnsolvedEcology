@@ -19,17 +19,17 @@
 |*Part III*|*COEXISTENCE*|||
 |12|The Dimensions of Species Coexistence|西嶋|2021/07/05|
 |13|Evolution, Speciation, and the Persistence Paradox|篠原|2021/07/05|
-|14|What Is the Species Richness Distribution?|金治|-|
+|14|What Is the Species Richness Distribution?|金治|2021/11/02|
 |15|Two Sides of the Same Coin: High Non-Neutral Diversity and High-Dimensional Trait Space in Pathogen Populations and Ecological Communities|金森|-|
 |*Part IV*|*ECOLOGICAL COMMUNITIES AND ECOSYSTEMS*|||
 |16|What Regulates Growth across Levels of Organization?|真鍋|2021/07/20|
 |17|The Ecosystem: Superorganism, or Collection of Individuals?|長谷川|2021/07/20|
 |18|Untangling Food Webs|長田|2021/06/04|
-|19|What Determines the Abundance of Lianas and Vines?|奥田|-|
-|20|The World Beneath Us: Making Soil Biodiversity and Ecosystem Functioning Central to Environmental Policy|濵邉|-|
+|19|What Determines the Abundance of Lianas and Vines?|奥田|2021/11/11|
+|20|The World Beneath Us: Making Soil Biodiversity and Ecosystem Functioning Central to Environmental Policy|濵邉|2021/11/02|
 |*Part V*|*ECOLOGY AND HEALTH*|||
 |21|Ecology and Medicines|柴田|-|
-|22|Six Wedges to Curing Disease|古市|-|
+|22|Six Wedges to Curing Disease|古市|2021/11/11|
 |*Part VI*|*CONSERVATION BIOLOGY AND NATURAL RESOURCE MANAGEMENT*|||
 |23|Collective Cooperation: From Ecological Communities to Global Governance and Back|宮川|-|
 |24|Keeping the Faith: The Case for Very-Large Terrestrial and Marine Protected Areas|濵邉|-|
